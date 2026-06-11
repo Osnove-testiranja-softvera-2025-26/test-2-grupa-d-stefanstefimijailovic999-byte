@@ -1,0 +1,5 @@
+﻿
+TrainingTime: WholeDay, OnlyMorning, Other
+Months:       10,       12,          13
+Budget:       18,       25,          26
+Group: True, False
