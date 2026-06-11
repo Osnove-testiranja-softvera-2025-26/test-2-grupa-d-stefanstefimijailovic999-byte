@@ -1,5 +1,4 @@
 ﻿
-
 using GymApp.Exceptions;
 using GymApp.Models;
 using System.Collections.Generic;
